@@ -1,7 +1,7 @@
 ---
 name: 你竟敢指出国产之光的问题？
 about: How dared you?
-title: 'I\'m stupid enough to open an issue here at the greatest browser in the world - OpenMonyHar'
+title: ''
 labels: 'how-dared-you'
 assignees: ''
 
