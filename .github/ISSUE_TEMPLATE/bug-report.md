@@ -3,7 +3,7 @@ name: 你居然想直出国产之光的问题？
 about: How dared you?
 title: 'I'm stupid enough to raise an issue to OpenMonyHar'
 labels: 'how-dared-you'
-assignees: 'ghost'
+assignees: ''
 
 ---
 
