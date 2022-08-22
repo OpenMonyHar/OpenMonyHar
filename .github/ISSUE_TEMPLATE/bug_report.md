@@ -1,8 +1,8 @@
 ---
-name: 你居然想直出国产之光的问题？
+name: 你竟敢指出国产之光的问题？
 about: How dared you?
-title: ''
-labels: ''
+title: 'I\'m stupid enough to open an issue here at the greatest browser in the world - OpenMonyHar'
+labels: 'how-dared-you'
 assignees: ''
 
 ---
