@@ -2,7 +2,7 @@
 name: 你竟敢指出国产之光的问题？
 about: How dared you?
 title: '我来自无知的勇气让我蠢到开个 Issue 指出国产之光 OpenMonyHar 的问题'
-labels: 'How DARED YOU'
+labels: 'How DARED YOU?'
 assignees: 'ghost'
 
 ---
